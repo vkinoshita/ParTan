@@ -1,0 +1,736 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.16)  4 AUG 2013 21:26
+entering extended mode
+**partan_report.tex
+(D:\projetos\ParTan\report\partan_report.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\portuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\ae.sty"
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aer.fd"
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
+File: uni-global.def 2012/08/28 UCS: Unicode global data
+)
+\uc@secondtry=\count88
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\breakurl\breakurl.sty"
+Package: breakurl 2009/01/24 v1.30 Breakable hyperref URLs
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+\XKV@depth=\count90
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 47.
+
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks23
+\ex@=\dimen106
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen107
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip11
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks24
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks25
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks26
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mnsymbol\MnSymbol.sty"
+Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+LaTeX Info: Redefining \dagger on input line 84.
+LaTeX Info: Redefining \ddagger on input line 84.
+LaTeX Info: Redefining \mathparagraph on input line 84.
+LaTeX Info: Redefining \mathsection on input line 84.
+LaTeX Info: Redefining \mathdollar on input line 84.
+LaTeX Info: Redefining \mathsterling on input line 84.
+LaTeX Info: Redefining \yen on input line 84.
+LaTeX Info: Redefining \circledR on input line 84.
+LaTeX Info: Redefining \circledS on input line 84.
+LaTeX Info: Redefining \Re on input line 84.
+LaTeX Info: Redefining \Im on input line 84.
+LaTeX Info: Redefining \dotplus on input line 84.
+LaTeX Info: Redefining \thicksim on input line 84.
+LaTeX Info: Redefining \thickapprox on input line 84.
+LaTeX Info: Redefining \veebar on input line 84.
+LaTeX Info: Redefining \barwedge on input line 84.
+LaTeX Info: Redefining \doublebarwedge on input line 84.
+LaTeX Info: Redefining \centerdot on input line 84.
+LaTeX Info: Redefining \divideontimes on input line 84.
+\symMnSyA=\mathgroup6
+\symMnSyB=\mathgroup7
+\symMnSyC=\mathgroup8
+\symMnSyD=\mathgroup9
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `MnSyA' in version `bold'
+(Font)                  U/MnSymbolA/m/n --> U/MnSymbolA/b/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `MnSyB' in version `bold'
+(Font)                  U/MnSymbolB/m/n --> U/MnSymbolB/b/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `MnSyC' in version `bold'
+(Font)                  U/MnSymbolC/m/n --> U/MnSymbolC/b/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `MnSyD' in version `bold'
+(Font)                  U/MnSymbolD/m/n --> U/MnSymbolD/b/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/MnSymbolE/m/n --> OMX/MnSymbolE/b/n on input line 1
+25.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolF/b/n on input line 126.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 241.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  OMS/MnSymbolS/m/n --> OMS/MnSymbolS/b/n on input line 2
+41.
+LaTeX Info: Redefining \longrightarrow on input line 548.
+LaTeX Info: Redefining \longleftarrow on input line 549.
+LaTeX Info: Redefining \longleftrightarrow on input line 550.
+LaTeX Info: Redefining \Longrightarrow on input line 551.
+LaTeX Info: Redefining \Longleftarrow on input line 552.
+LaTeX Info: Redefining \Longleftrightarrow on input line 553.
+LaTeX Info: Redefining \longmapsto on input line 554.
+LaTeX Info: Redefining \vdots on input line 868.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 1721.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 1722.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 1723.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 1724.
+LaTeX Info: Redefining \downbracefill on input line 1799.
+LaTeX Info: Redefining \upbracefill on input line 1800.
+LaTeX Info: Redefining \overbrace on input line 1819.
+LaTeX Info: Redefining \underbrace on input line 1820.
+LaTeX Info: Redefining \surd on input line 1843.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 1845.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1846.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1848.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\genmisc\mathdots.sty"
+Package: mathdots 2004/07/02 version 0.6.
+\MD@unit=\dimen115
+LaTeX Info: Redefining \ddots on input line 120.
+LaTeX Info: Redefining \vdots on input line 122.
+
+
+Package Mathdots Warning: Redefining amsmath commands \dddot and \ddddot.
+
+LaTeX Info: Redefining \dddot on input line 145.
+LaTeX Info: Redefining \ddddot on input line 145.
+) (D:\projetos\ParTan\report\partan_report.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 22.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 22.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen116
+\scratchbox=\box28
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen117
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks29
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
+File: uni-0.def 2012/08/28 UCS: Unicode data U+0000..U+00FF
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<0_5_1_2_tangente.png, id=1, 589.0005pt x 444.4605pt>
+File: 0_5_1_2_tangente.png Graphic file (type png)
+
+<use 0_5_1_2_tangente.png>
+Package pdftex.def Info: 0_5_1_2_tangente.png used on input line 31.
+(pdftex.def)             Requested size: 398.33858pt x 300.60147pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 31--32
+ [] 
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/projetos/ParTan/report
+/0_5_1_2_tangente.png>]
+LaTeX Font Info:    Try loading font information for T1+aett on input line 54.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aett.fd"
+File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
+) [2]
+<funcao_teste.png, id=18, 589.0005pt x 444.4605pt>
+File: funcao_teste.png Graphic file (type png)
+ <use funcao_teste.png>
+Package pdftex.def Info: funcao_teste.png used on input line 99.
+(pdftex.def)             Requested size: 398.33858pt x 300.60147pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 99--100
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3] [4 <D:/projetos/ParTan/report/funcao_teste.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+ []
+
+
+Overfull \hbox (19.13818pt too wide) in paragraph at lines 220--221
+[]\T1/aer/m/n/12 Se $\OML/cmm/m/it/12 [] \U/MnSymbolD/m/n/12 A \OML/cmm/m/it/1
+2 []$\T1/aer/m/n/12 , es-co-lhe-mos as trin-cas no-vas $\OMX/MnSymbolE/m/n/12 
+ò\OML/cmm/m/it/12 []; []; []\OMX/MnSymbolE/m/n/12 ù$ \T1/aer/m/n/12 e $\OMX/
+MnSymbolE/m/n/12 ò\OML/cmm/m/it/12 []; []; []\OMX/MnSymbolE/m/n/12 ù$\T1/aer
+/m/n/12 . 
+ []
+
+
+Overfull \hbox (27.99506pt too wide) in paragraph at lines 221--222
+[]\T1/aer/m/n/12 caso con-tr·-rio, es-co-lhe-mos as trin-cas no-vas $\OMX/MnSym
+bolE/m/n/12 ò\OML/cmm/m/it/12 []; []; []\OMX/MnSymbolE/m/n/12 ù$ \T1/aer/m/n
+/12 e $\OMX/MnSymbolE/m/n/12 ò\OML/cmm/m/it/12 []; []; []\OMX/MnSymbolE/m/n/
+12 ù$\T1/aer/m/n/12 . 
+ []
+
+[6]
+Overfull \hbox (19.13818pt too wide) in paragraph at lines 225--226
+[]\T1/aer/m/n/12 Se $\OML/cmm/m/it/12 [] \U/MnSymbolD/m/n/12 A \OML/cmm/m/it/1
+2 []$\T1/aer/m/n/12 , es-co-lhe-mos as trin-cas no-vas $\OMX/MnSymbolE/m/n/12 
+ò\OML/cmm/m/it/12 []; []; []\OMX/MnSymbolE/m/n/12 ù$ \T1/aer/m/n/12 e $\OMX/
+MnSymbolE/m/n/12 ò\OML/cmm/m/it/12 []; []; []\OMX/MnSymbolE/m/n/12 ù$\T1/aer
+/m/n/12 . 
+ []
+
+
+Overfull \hbox (27.99506pt too wide) in paragraph at lines 226--227
+[]\T1/aer/m/n/12 caso con-tr·-rio, es-co-lhe-mos as trin-cas no-vas $\OMX/MnSym
+bolE/m/n/12 ò\OML/cmm/m/it/12 []; []; []\OMX/MnSymbolE/m/n/12 ù$ \T1/aer/m/n
+/12 e $\OMX/MnSymbolE/m/n/12 ò\OML/cmm/m/it/12 []; []; []\OMX/MnSymbolE/m/n/
+12 ù$\T1/aer/m/n/12 . 
+ []
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-34.def"
+File: uni-34.def 2012/08/28 UCS: Unicode data U+2200..U+22FF
+) [7] [8]
+<2_2_eta_4.png, id=43, 589.0005pt x 444.4605pt>
+File: 2_2_eta_4.png Graphic file (type png)
+ <use 2_2_eta_4.png>
+Package pdftex.def Info: 2_2_eta_4.png used on input line 272.
+(pdftex.def)             Requested size: 284.52756pt x 214.71533pt.
+
+<2_2_f_2.png, id=44, 589.0005pt x 444.4605pt>
+File: 2_2_f_2.png Graphic file (type png)
+ <use 2_2_f_2.png>
+Package pdftex.def Info: 2_2_f_2.png used on input line 278.
+(pdftex.def)             Requested size: 284.52756pt x 214.71533pt.
+
+<2_2_caminhada.png, id=45, 589.0005pt x 444.4605pt>
+File: 2_2_caminhada.png Graphic file (type png)
+ <use 2_2_caminhada.png>
+Package pdftex.def Info: 2_2_caminhada.png used on input line 284.
+(pdftex.def)             Requested size: 341.43306pt x 257.6584pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9
+
+ <D:/projetos/ParTan/report/2_2_eta_4.png> <D:/projetos/ParTan/report/2_2_f_2.p
+ng>] [10 <D:/projetos/ParTan/report/2_2_caminhada.png>]
+<0_0_eta_4.png, id=55, 589.0005pt x 444.4605pt>
+File: 0_0_eta_4.png Graphic file (type png)
+ <use 0_0_eta_4.png>
+Package pdftex.def Info: 0_0_eta_4.png used on input line 294.
+(pdftex.def)             Requested size: 284.52756pt x 214.71533pt.
+
+<0_0_f_2.png, id=56, 589.0005pt x 444.4605pt>
+File: 0_0_f_2.png Graphic file (type png)
+ <use 0_0_f_2.png>
+Package pdftex.def Info: 0_0_f_2.png used on input line 300.
+(pdftex.def)             Requested size: 284.52756pt x 214.71533pt.
+
+<0_0_caminhada.png, id=57, 589.0005pt x 444.4605pt>
+File: 0_0_caminhada.png Graphic file (type png)
+ <use 0_0_caminhada.png>
+Package pdftex.def Info: 0_0_caminhada.png used on input line 306.
+(pdftex.def)             Requested size: 341.43306pt x 257.6584pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11
+
+ <D:/projetos/ParTan/report/0_0_eta_4.png> <D:/projetos/ParTan/report/0_0_f_2.p
+ng>] [12 <D:/projetos/ParTan/report/0_0_caminhada.png>]
+<20_20_eta_4.png, id=67, 589.0005pt x 444.4605pt>
+File: 20_20_eta_4.png Graphic file (type png)
+ <use 20_20_eta_4.png>
+Package pdftex.def Info: 20_20_eta_4.png used on input line 316.
+(pdftex.def)             Requested size: 284.52756pt x 214.71533pt.
+
+<20_20_f_2.png, id=68, 589.0005pt x 444.4605pt>
+File: 20_20_f_2.png Graphic file (type png)
+ <use 20_20_f_2.png>
+Package pdftex.def Info: 20_20_f_2.png used on input line 322.
+(pdftex.def)             Requested size: 284.52756pt x 214.71533pt.
+
+<20_20_caminhada.png, id=69, 589.0005pt x 444.4605pt>
+File: 20_20_caminhada.png Graphic file (type png)
+
+<use 20_20_caminhada.png>
+Package pdftex.def Info: 20_20_caminhada.png used on input line 328.
+(pdftex.def)             Requested size: 341.43306pt x 257.6584pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13
+
+ <D:/projetos/ParTan/report/20_20_eta_4.png> <D:/projetos/ParTan/report/20_20_f
+_2.png>] [14 <D:/projetos/ParTan/report/20_20_caminhada.png>]
+<100_100_eta_4.png, id=80, 589.0005pt x 444.4605pt>
+File: 100_100_eta_4.png Graphic file (type png)
+ <use 100_100_eta_4.png>
+Package pdftex.def Info: 100_100_eta_4.png used on input line 338.
+(pdftex.def)             Requested size: 284.52756pt x 214.71533pt.
+
+<100_100_f_2.png, id=81, 589.0005pt x 444.4605pt>
+File: 100_100_f_2.png Graphic file (type png)
+ <use 100_100_f_2.png>
+Package pdftex.def Info: 100_100_f_2.png used on input line 344.
+(pdftex.def)             Requested size: 284.52756pt x 214.71533pt.
+
+<100_100_caminhada.png, id=82, 589.0005pt x 444.4605pt>
+File: 100_100_caminhada.png Graphic file (type png)
+
+<use 100_100_caminhada.png>
+Package pdftex.def Info: 100_100_caminhada.png used on input line 350.
+(pdftex.def)             Requested size: 341.43306pt x 257.6584pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15
+
+ <D:/projetos/ParTan/report/100_100_eta_4.png> <D:/projetos/ParTan/report/100_1
+00_f_2.png>] [16 <D:/projetos/ParTan/report/100_100_caminhada.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
+
+ []
+
+[17
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
+
+ []
+
+[18] <0_5_1_2_partan.png, id=100, 589.0005pt x 444.4605pt>
+File: 0_5_1_2_partan.png Graphic file (type png)
+
+<use 0_5_1_2_partan.png>
+Package pdftex.def Info: 0_5_1_2_partan.png used on input line 423.
+(pdftex.def)             Requested size: 284.52756pt x 214.71533pt.
+File: 0_5_1_2_tangente.png Graphic file (type png)
+ <use 0_5_1_2_tangente.png>
+Package pdftex.def Info: 0_5_1_2_tangente.png used on input line 429.
+(pdftex.def)             Requested size: 284.52756pt x 214.71533pt.
+ [19
+
+ <D:/projetos/ParTan/report/0_5_1_2_partan.png>] <2_2_partan.png, id=106, 589.0
+005pt x 444.4605pt>
+File: 2_2_partan.png Graphic file (type png)
+
+<use 2_2_partan.png>
+Package pdftex.def Info: 2_2_partan.png used on input line 438.
+(pdftex.def)             Requested size: 284.52756pt x 214.71533pt.
+ <2_2_tangente.png, id=107, 589.0005pt x 444.4605pt>
+File: 2_2_tangente.png Graphic file (type png)
+
+<use 2_2_tangente.png>
+Package pdftex.def Info: 2_2_tangente.png used on input line 444.
+(pdftex.def)             Requested size: 284.52756pt x 214.71533pt.
+ [20
+
+ <D:/projetos/ParTan/report/2_2_partan.png> <D:/projetos/ParTan/report/2_2_tang
+ente.png>] [21]
+Overfull \hbox (29.42084pt too wide) in paragraph at lines 527--527
+[]\T1/aett/m/n/12 argumento otimo = [-4.2515391632884002e-05, -0.00025509234979
+765683,[] 
+ []
+
+
+Overfull \hbox (17.08493pt too wide) in paragraph at lines 527--527
+[]\T1/aett/m/n/12 argumento otimo = [3.5527136788005009e-15, 1.7763568394002505
+e-14][] 
+ []
+
+[22] [23]
+Overfull \hbox (10.91698pt too wide) in paragraph at lines 587--587
+[]\T1/aett/m/n/12 argumento otimo = [5.9299676016700425e-06, 1.5182586370540642
+e-07[] 
+ []
+
+
+Overfull \hbox (97.26833pt too wide) in paragraph at lines 619--619
+[]\T1/aett/m/n/12 argumento otimo = [0.33437263916786558, 0.8678659669925346, 2
+.1959342219464055][] 
+ []
+
+[24] [25] [26] (D:\projetos\ParTan\report\partan_report.aux) ) 
+Here is how much of TeX's memory you used:
+ 6115 strings out of 493921
+ 79035 string characters out of 3144879
+ 111510 words of memory out of 3000000
+ 9254 multiletter control sequences out of 15000+200000
+ 40231 words of font info for 107 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 28i,7n,32p,733b,589s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Program Files (x86
+)/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}{C:/Program Files (x86)/MiK
+TeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{C:/Program Files (x86)/MiKTeX 2
+.9/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/enc/dvips/mnsymbol/MnSymbolE.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/mnsymbol/MnSymbol12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/mnsymbol/MnSymbol8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmtt12.pfb>
+Output written on partan_report.pdf (26 pages, 988470 bytes).
+PDF statistics:
+ 176 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
