@@ -1,6 +1,6 @@
 Authors: Victor S. K. and Arthur V.
 
-- This is an basic implementation of Bazaraa's ParTan that finds the minimum of almost all n dimensional functions.
+- This is a basic implementation of Bazaraa's ParTan that finds the minimum of almost all n dimensional functions.
 
 - Both implementations, Partan and Linear Search, works pretty well. 
 
