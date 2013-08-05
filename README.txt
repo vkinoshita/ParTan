@@ -6,4 +6,4 @@ Authors: Victor S. K. and Arthur V.
 
 - The Penalty method is a little bit rudimentary. It means that sometimes you will not get the real optimal value. So, don't trust the partan_with_restriction.py.
 
-- Although the partan's report is written in portuguese, the images and the equations is pretty useful.
+- The partan's report is written in portuguese.
